@@ -5,7 +5,7 @@ _**Mention All Bot will help you to Mention Group Members upto 10,000 in GROUPS 
 
 Join Here💖 [@ShikariSupportNetwork](https://t.me/ShikariSupportNetwork)!
     
-Fork and Follow my Github [ShikariBaaZ](https://github.com/ShikariBaaZ)
+Fork and Follow my Github [ShikariBaaZ](https://github.com/ixrocky/Tag)
 
 ## How To Host
 Heroku is the easiest way to deploy this Bot
